@@ -1,3 +1,3 @@
 Access = {
-    ["LOPCYPYS"] = true
+    ["LopcyPys"] = true
 }
